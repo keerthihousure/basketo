@@ -52,7 +52,7 @@ These were the 3 pain points that led to a 30% improvement in task completion ef
 |--|--|
 | **Type** | Online Grocery Shopping Platform |
 | **Timeline** | Sep 26 – Nov 7, 2024 |
-| **Budget** | $42,636 |
+| **Budget** | $5,000 |
 | **Methodology** | Agile / Scrum — 4 sprints |
 | **Key Features** | Product search, dynamic cart, secure checkout, real-time order tracking, Basketo Assist chatbot |
 
