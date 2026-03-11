@@ -8,7 +8,7 @@ A Python & Plotly Dash project — built to measure what the prototype couldn't 
 
 Basketo was a group project at DePaul University — we designed and built a high-fidelity prototype for an online grocery shopping platform over 4 Agile sprints (Sep–Nov 2024). The prototype covered product browsing, a dynamic cart, secure checkout, order tracking, and a 24/7 chatbot called Basketo Assist.
 
-We used Scrum boards, ran sprint reviews, managed a $42,636 project budget, and delivered on time.
+We used Scrum boards, ran sprint reviews, managed a $5,000 project budget, and delivered on time.
 
 But here's the thing about UX prototype work: you can see what you built. You can't easily see how users would actually behave inside it.
 
