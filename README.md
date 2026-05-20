@@ -140,5 +140,5 @@ Good UX and good data aren't separate workstreams. They're the same question ask
 ## Author
 
 **Keerthi Housure Srinivas**
-Senior Data Analyst | SQL · Power BI · Python · Plotly Dash
+
 [LinkedIn](https://www.linkedin.com/in/srinivaskeerthi) · Chicago, IL
